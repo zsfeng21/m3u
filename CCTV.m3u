@@ -85,3 +85,7 @@ http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=ws
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wschongqing
 #EXTINF:-1 tvg-id="50" tvg-name="广西卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-GX.png" group-title="V4线路",广西卫视
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsguangxi
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
