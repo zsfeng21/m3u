@@ -12,11 +12,10 @@
 >RedStar 「电脑端」  
 ---
 ### 订阅地址「懒人必备」 
-* [Gather.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)  
-* [Adult.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
+* [Gather.m3u](https://raw.githubusercontent.com/zsfeng21/m3u/main/Gather.m3u)  
 ---
 ### 直播集合「一切随缘」   
-* [live.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/live.m3u)  
+* [live.m3u](https://raw.githubusercontent.com/zsfeng21/m3u/main/live.m3u)  
 >多平台集合「未创建」
 ---
 ### 垃圾话语录 「历史记录」  
